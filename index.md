@@ -16,36 +16,18 @@ PhD student in [Biostatistics](http://www.hsph.harvard.edu/biostatistics) at Har
 <div class="container">
 <h4><a name="contact"></a>contact</h4>
     <div id="hide_email">
-            <code>wil</code><b>I</b><code>l.town</code><b>don't</b><code>es@</code><b>want</b><code>gma</code><b>spam!
-            </b><code>il.c</code><b>So</b><code>om</code><br/>
+            <code>je</code>
+            <b>the</b>
+            <code>remi</code>
+            <b>abyss</b>
+            <code>ah.zh</code>
+            <b>stares</b>
+            <code>e.liu@</code>
+            <b>back</b>
+            <code>gma</code>
+            <b>s!</b>
+            <code>il.c</code>
+            <b>So</b><code>om</code><br/>
             </div>
-    <div id="twitter">
-    <a href="https://twitter.com/sandakano">@sandakano</a>
-    </div>
-
-            
-    <!--<div class="row-fluid">
-        <div class="span5">
-            Karl Broman<br/>
-            <a href="http://www.biostat.wisc.edu">Department of Biostatistics &amp; Medical Informatics</a><br/>
-            <a href="http://www.wisc.edu">University of Wisconsin&ndash;Madison</a><br/>
-            <a href="http://map.wisc.edu/s/2tie3nen">2126 Genetics/Biotechnology Center</a><br/>
-            425 Henry Mall<br/>
-            Madison, Wisconsin 53706<br/>
-            USA<br/><br/>
-
-            <div id="hide_email">
-            Email: <code>wil</code><b>I</b><code>l.town</code><b>don't</b><code>es@</code><b>want</b><code>gma</code><b>spam!
-            </b><code>il.c</code><b>So</b><code>om</code><br/>
-            Phone: XXX-XXX-XXXX
-            </div>
-        </div>
-
-        <div class="span2">
-        <a href="../assets/pics/karl_2014-03-30.jpg">
-            <img src="../assets/pics/karl_2014-03-30_small.jpg"
-                  title="Karl Broman" alt="Karl Broman"/></a>
-        </div>
-    </div>-->
 </div>
 
