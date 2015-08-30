@@ -1,19 +1,11 @@
 ---
-title: Will Townes
+title: Jeremiah Zhe Liu
 layout: default
-description: Will Townes is a Ph.D. student in Biostatistics at Harvard University
+description: Jeremiah Zhe Liu's technical blog
 ---
 
 #### Bio Sketch
-I am a 2nd year PhD student in [Biostatistics](http://www.hsph.harvard.edu/biostatistics) at Harvard University. I am interested in biological problems that involve computational and statistical methods. My academic background is:
-
-* B.S. [Biology](http://www.wlu.edu/biology-department), Washington &amp; Lee University. Studied abroad in [Monteverde](http://www.ciee.org/study-abroad/costa-rica/monteverde/tropical-ecology-conservation/), Costa Rica.
-* Tropical Ecology research in Bataan, Philippines on a Fulbright grant.
-* M.S. [Math and Statistics](http://mathstat.georgetown.edu/), Georgetown University. Completed while working full-time as a software tester.
-
-I am a fan of open source collaboration and like to use software engineering techniques like automated testing, version control and continuous integration in my research whenever possible. 
-
-My favorite programming language is [Python](https://www.python.org/), but I also use [R](https://www.r-project.org/) and sometimes [Julia](http://julialang.org/).
+PhD student in [Biostatistics](http://www.hsph.harvard.edu/biostatistics) at Harvard University. 
 
 <!--[curriculum vitae ![CV as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/broman.pdf)
 

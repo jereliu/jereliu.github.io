@@ -1,4 +1,4 @@
-willtownes.github.io
+jereliu.github.io
 ====================
 
-personal website/blog for technical topics (non-technical blog is at [willtownes.wordpress.com](http://willtownes.wordpress.com))
+JZ's technical blog. Website template borrowed shamelessly from Will's [github page](willtownes.github.io)
