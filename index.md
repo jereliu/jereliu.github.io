@@ -4,7 +4,6 @@ layout: default
 description: Jeremiah Zhe Liu's technical blog
 ---
 
-#### Bio Sketch
 PhD student in [Biostatistics](http://www.hsph.harvard.edu/biostatistics) at Harvard University. 
 
 <!--[curriculum vitae ![CV as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/broman.pdf)
