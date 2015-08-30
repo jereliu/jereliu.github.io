@@ -16,18 +16,8 @@ PhD student in [Biostatistics](http://www.hsph.harvard.edu/biostatistics) at Har
 <div class="container">
 <h4><a name="contact"></a>contact</h4>
     <div id="hide_email">
-            <code>je</code>
-            <b>the</b>
-            <code>remi</code>
-            <b>abyss</b>
-            <code>ah.zh</code>
-            <b>stares</b>
-            <code>e.liu@</code>
-            <b>back</b>
-            <code>gma</code>
-            <b>s!</b>
-            <code>il.c</code>
-            <b>So</b><code>om</code><br/>
-            </div>
+            <code>je</code><b>the</b><code>remi</code><b>abyss</b><code>ah.zh</code><b>stares</b><code>e.liu@</code><b>back</b><code>gma</code><b>at</b><code>il.c</code><b>you!</b><code>om</code>
+            <br/>
+	</div>
 </div>
 
