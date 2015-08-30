@@ -4,4 +4,4 @@ layout: post
 external: [latex]
 ---
 
-Welcome to Jeremiah's technical blog! Thanks [Will](willtownes.github.io) for letting me to use his template.
+Welcome to Jeremiah's technical blog! The website template borrowed shamelessly from [Will](willtownes.github.io)'s github page. :P
