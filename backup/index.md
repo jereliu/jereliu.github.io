@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Jeremiah Zhe Liu
+title: Hello World!
 tagline: Supporting tagline
 ---
 {% include JB/setup %}
