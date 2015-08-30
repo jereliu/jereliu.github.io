@@ -8,6 +8,7 @@ Links
 
 ### Professional 
 
+* [Zotero](https://www.zotero.org/willtownes)- research bibliography
 * to appear...
 
 ### Statistics
