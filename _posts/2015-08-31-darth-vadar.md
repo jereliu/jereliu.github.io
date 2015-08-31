@@ -5,7 +5,9 @@ external: [latex]
 ---
 
 
-> ![My helpful screenshot](/download/posts/darth_cookie.jpg)
+<center><img src="/download/posts/darth_cookie.jpg" alt="I find your lack of cookie disturbing" style="width: 400px;" vspace="30"/></center>
+
+
 
 
 In this post we are interested in proving the [Darth Vadar Rule](https://www.sav.sk/journals/uploads/1030150905-M-O-W.pdf):
