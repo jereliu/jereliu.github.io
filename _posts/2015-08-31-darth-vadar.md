@@ -5,7 +5,7 @@ external: [latex]
 ---
 
 
-> ![My helpful screenshot]({{ site.url }}/download/posts/darth_cookie.jpg)
+> ![My helpful screenshot](/download/posts/darth_cookie.jpg)
 
 
 In this post we are interested in proving the [Darth Vadar Rule](https://www.sav.sk/journals/uploads/1030150905-M-O-W.pdf):
