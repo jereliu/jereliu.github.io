@@ -3,9 +3,6 @@ title: Links
 layout: default
 ---
 
-Links
-====
-
 ## People 
 
 * [Will Townes](willtownes.github.io) - Fellow Qual exam buddy at Harvard Biostat. 
