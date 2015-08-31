@@ -10,7 +10,7 @@ This blog is built with [Jekyll](http://jekyllrb.com/docs/home/) with full $\LaT
 
 $$f(\mathbf{x}) = (2\pi)^{-\frac{k}{2}} * |\Sigma|^{-\frac{1}{2}} exp((\mathbf{x}-\mathbf{\mu})^T\Sigma^{-1}(\mathbf{x}-\mathbf{\mu}))$$
 
-The source code for this initial release is borrowed heavily from [Will Townes](willtownes.github.io) (thanks Will!).
+The source code for the initial release is borrowed heavily from [Will Townes](willtownes.github.io) (thanks Will!).
 
 
 

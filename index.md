@@ -4,7 +4,7 @@ layout: default
 description: Jeremiah Zhe Liu's technical blog
 ---
 
-PhD student in [Biostatistics](http://www.hsph.harvard.edu/biostatistics) at Harvard University. Your average Qual monkey :P
+PhD student in [Biostatistics](http://www.hsph.harvard.edu/biostatistics) at Harvard University. Your average Qual monkey.
 
 <!--[curriculum vitae ![CV as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/broman.pdf)
 
