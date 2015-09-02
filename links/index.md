@@ -5,7 +5,7 @@ layout: default
 
 ## People 
 
-* [Will Townes](https://willtownes.github.io/) - Fellow Qual exam buddy at Harvard Biostat. 
+* [Will Townes](https://willtownes.github.io/) - Fellow Qual exam buddy at Harvard Biostat.
 
 ## Academia
 

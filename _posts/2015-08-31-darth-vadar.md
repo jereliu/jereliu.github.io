@@ -12,7 +12,7 @@ external: [latex]
 
 In this post we are interested in proving the [Darth Vadar Rule](https://www.sav.sk/journals/uploads/1030150905-M-O-W.pdf):
 
-$$E(X) = \int_{\mathbb{R}_+}S(x)dx 
+>$$E(X) = \int_{\mathbb{R}_+}S(x)dx 
 \qquad x\in \mathbb{R}_+$$
 
 where $S(x) = 1 - F(x)$ is the survival function. We also want to  illustrate its usage in showing the closed form expression of mean survival time 
@@ -42,7 +42,7 @@ E(X) &= \int_{\mathbb{R}_+} x*f(x) dx \\
 \end{align}
 $$
 
-Now only need to show the claim $\lim_{x \rightarrow \infty} x*S(x) = 0$. We can show this by showing $0 \leq \lim_{x \rightarrow \infty} x*S(x)  \leq 0$:
+Now only need to show the claim $$\lim_{x \rightarrow \infty} x*S(x) = 0$$. We can show this by showing $0 \leq \lim_{x \rightarrow \infty} x*S(x)  \leq 0$:
 
 $$
 \begin{align}
@@ -63,11 +63,11 @@ and conclude $\lim_{x \rightarrow \infty} x*S(x) = 0$  by [the squeeze theorem](
 #### Now, **Mean Survival Time**:
 Want to show:
 
-$E(T-t_0|T>t_0) = \int_{t_0}^\infty \frac{S_T(t)}{S_T(t_0)}dt \qquad 
+>$E(T-t_0|T>t_0) = \int_{t_0}^\infty \frac{S_T(t)}{S_T(t_0)}dt \qquad 
 T > t_0
 $
 
-Note if we define $R = T-t_0$ above formula is just a straightforward application of the Darth Vadar rule, i.e. 
+Note if we define $R = T-t_0$, above formula is just a straightforward application of the Darth Vadar rule, i.e. 
 
 $$E(T-t_0|T>t_0) = E(R|R>0) = E(R) = \int_{\mathbb{R}_+} S_R(r) dr$$
 
@@ -83,7 +83,7 @@ S_R(r) &= P(R\geq r|R \geq 0) \\
 $$
 
 and plug this expression into 
-$\int_{\mathbb{R}_+} S_R(r) dr$:
+$$\int_{\mathbb{R}_+} S_R(r) dr$$:
 
 $$
 \begin{align}
