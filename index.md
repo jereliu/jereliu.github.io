@@ -1,22 +1,16 @@
 ---
-title: Jeremiah Zhe Liu
-layout: default
-description: Jeremiah Zhe Liu's technical blog
+layout: page
+title: Hi, I'm Jeremiah
 ---
 
-PhD student in [Biostatistics](http://www.hsph.harvard.edu/biostatistics) at Harvard University. Your average Qual monkey.
 
-<!--[curriculum vitae ![CV as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/broman.pdf)
+I'm a PhD student in [Biostatistics](http://www.hsph.harvard.edu/biostatistics/) at Harvard University, where I take cool classes on statistics and machine intelligence, 
+do research on statistical learning, code open source tools, and work with Professor [Brent Coull](http://www.hsph.harvard.edu/brent-coull/) to teach machines eat funky data (say, piles of satellite images) to predict metal pollutants in the air.
 
-[orcid](http://orcid.org): [0000-0002-4914-6671](http://orcid.org/0000-0002-4914-6671)-->
+<!-- 
+i wrangle Pig, analyze in R and Python, power large-scale computation with C, and visualize in ggplot and d3.js. Shiny 
 
----
+I love things that are <span style="color:black">elegantly simple</span> and <span style="color:black">deadly functional</span>, and never hesitate to  impose this aesthetic principle on all the things that I do.
+--> 
 
-<div class="container">
-<h4><a name="contact"></a>contact</h4>
-    <div id="hide_email">
-            <code>je</code><b>the</b><code>remi</code><b>abyss</b><code>ah.zh</code><b>stares</b><code>e.liu@</code><b>back</b><code>gma</code><b>at</b><code>il.c</code><b>you!</b><code>om</code>
-            <br/>
-	</div>
-</div>
-
+For more information, please see my [Vitae](/download/cv/cv.pdf).

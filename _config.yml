@@ -1,8 +1,24 @@
-name: "Jeremiah Zhe Liu"
-description: "technical blog"
-url: "http://0.0.0.0:4444/"
-paginate: 10
-paginate_path: "/blog/page:num/"
-permalink: /blog/:year/:month/:day/:title/
-markdown: kramdown
-highlighter: pygments
+# Dependencies
+markdown:         kramdown #redcarpet
+highlighter:	  pygments
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            jereliu
+tagline:          'Jeremiah Zhe Liu'
+description:      'Machine Learning aficionado <br> Open Source monkey <br> PhD Student in Biostats'
+url:              http://jereliu.github.io
+
+author:
+  name:           'Jeremiah Zhe Liu'
+  url:            http://jereliu.github.io
+
+paginate:         5
+
+# Custom vars
+version:          2.0.0
+
+github:
+  repo:           https://github.com/jtleek/jtleek.github.io
