@@ -7,9 +7,5 @@ title: Projects
 
 ### Statistical Learning Methodology
 
-
----
-
-### Computational Environmetrics
-
+* Hypothesis Testing under Multiple Kernel Learning
 
