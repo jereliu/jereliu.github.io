@@ -1,6 +1,6 @@
 ---
 
-title: Penalized Score Test layout: post
+title: Mondrian Process layout: post
 
 external: [latex]
 -----------------
