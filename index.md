@@ -6,7 +6,7 @@ title: Hi, I'm Jeremiah
 ---
 
 
-I'm a PhD student in [Biostatistics](http://www.hsph.harvard.edu/biostatistics/) at Harvard University, where I do thesis research on (Bayesian) machine learning, code [open source tools](/software/), and work with Professor [Brent Coull](http://www.hsph.harvard.edu/brent-coull/) on large-scale spatio-temporal air pollution prediction and small-sample detection of nutrition-environment interaction, as well as good folks at [Martino Center](https://www.nmr.mgh.harvard.edu/machinelearning) on various aspects of next-generation MRI technology.
+I'm a PhD student in [Biostatistics](http://www.hsph.harvard.edu/biostatistics/) at Harvard University, where I work on exciting thesis projects on (Bayesian) machine learning, code [open source tools](/software/), and work with Professor [Brent Coull](http://www.hsph.harvard.edu/brent-coull/) on large-scale spatio-temporal air pollution prediction and small-sample detection of nutrition-environment interaction, as well as good folks at [Martino Center](https://www.nmr.mgh.harvard.edu/machinelearning) on various aspects of next-generation MRI technology.
 
 I spend free time prototyping AI(mostly NLU)-oriented solutions for cost-efficient education. 
 
